@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="160dp"
+    android:background="@drawable/laundrymenu"
+    android:padding="20dp">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/profileImage"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:onClick="onImage"
+        android:src="@drawable/profilepic" />
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:onClick="onName"
+        android:text="Sahil pratap"
+        android:textColor="#282424"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onEmail"
+        android:text="sahilpratap7200@gmail.com"
+        android:textColor="#282424"
+        android:textStyle="bold" />
+
+</LinearLayout>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">StaticGridView</string>
+
+
+    <string-array name="data">
+
+        <item>Alpha</item>
+        <item>Beta</item>
+        <item>cupcake</item>
+        <item>donot</item>
+        <item>oreo</item>
+        <item>sandwitch</item>
+        <item>icecream</item>
+
+    </string-array>
+
+</resources>

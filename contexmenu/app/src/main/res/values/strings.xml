@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">contexmenu</string>
+
+
+    <string-array name="names">
+
+        <item>Noida</item>
+        <item>Delhi</item>
+        <item>Haryana</item>
+        <item>Faridabad</item>
+        <item>Gaziabad</item>
+        <item>Jalalabad</item>
+        <item>Heydrabad</item>
+        <item>Allahabad</item>
+
+    </string-array>
+
+
+
+</resources>

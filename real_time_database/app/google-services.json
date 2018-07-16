@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "178510599361",
+    "firebase_url": "https://realtimedatase.firebaseio.com",
+    "project_id": "realtimedatase",
+    "storage_bucket": "realtimedatase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178510599361:android:11d831039e02cbf8",
+        "android_client_info": {
+          "package_name": "com.ultron.sahilpratap.real_time_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178510599361-pe9ovsl0375gv5pjgd83d4k5kkh5ob9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ultron.sahilpratap.real_time_database",
+            "certificate_hash": "989af222f308d6c0eba4b5f2d47195e5858a022a"
+          }
+        },
+        {
+          "client_id": "178510599361-lmar0ic7i14oonqld33hto22n43m4o35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB64oDHE3gJ5r-hjFA1nVEUuHs5VgRjqHg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178510599361-lmar0ic7i14oonqld33hto22n43m4o35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

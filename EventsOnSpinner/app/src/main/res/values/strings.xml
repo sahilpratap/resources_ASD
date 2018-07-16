@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EventsOnSpinner</string>
+
+    <string-array name="spinner">
+
+        <item>select place</item>
+        <item>laddakh</item>
+        <item>nenitaal</item>
+        <item>manali</item>
+        <item>shimla</item>
+        <item>kasmir</item>
+        <item>mumbai</item>
+
+    </string-array>
+
+
+</resources>

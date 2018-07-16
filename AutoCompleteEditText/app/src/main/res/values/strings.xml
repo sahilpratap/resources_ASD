@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AutoCompleteEditText</string>
+
+    <string-array name="data">
+
+        <item>ram</item>
+        <item>shyam</item>
+        <item>ghanshyam</item>
+        <item>Ravi</item>
+        <item>Monu</item>
+        <item>Sonu</item>
+        <item>Heera lal</item>
+        <item>Mohan</item>
+        <item>Rohan</item>
+        <item>HAri</item>
+        <item>PAnkaj</item>
+
+    </string-array>
+</resources>

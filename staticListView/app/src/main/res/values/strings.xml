@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">staticListView</string>
+
+    <string-array name="items">
+
+         <item>Goa</item>
+         <item>Nainital</item>
+         <item>Mana</item>
+         <item>Cherapunji</item>
+         <item>Laddakh</item>
+         <item>Delhi</item>
+         <item>Manali</item>
+         <item>Shimla</item>
+
+    </string-array>
+
+</resources>

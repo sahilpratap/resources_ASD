@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">RagistrationForm</string>
+    <string-array name="course">
+        <item>Seelect course</item>
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Android</item>
+        <item>J2EE</item>
+        <item>PHP</item>
+        <item>C++</item>
+    </string-array>
+
+
+    <string-array name="faculty">
+
+        <item>""</item>
+        <item>Java faculty</item>
+        <item>Kotlin faculty</item>
+        <item>Android faculty</item>
+        <item>J2EE faculty</item>
+        <item>PHP faculty</item>
+        <item>C++ faculty</item>
+
+
+    </string-array>
+
+
+</resources>

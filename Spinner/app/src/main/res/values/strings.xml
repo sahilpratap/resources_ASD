@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Spinner</string>
+
+
+    <string-array name="sppinerArray">
+
+        <item>Select Course</item>
+        <item>Btech</item>
+        <item>Mtech</item>
+        <item>BBA</item>
+        <item>MBA</item>
+        <item>BCA</item>
+        <item>MCA</item>
+
+    </string-array>
+
+</resources>

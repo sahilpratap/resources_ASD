@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SpinnerOnChecked</string>
+
+
+    <string-array name="course">
+
+        <item>Java</item>
+        <item>Cotlin</item>
+        <item>Android</item>
+        <item>C</item>
+        <item>C++</item>
+    </string-array>
+
+    <string-array name="faculty">
+
+        <item>java faculty</item>
+        <item>cotlin faculty</item>
+        <item>Android faculty</item>
+        <item>C faculty</item>
+
+        <item>C++ faculty</item>
+
+    </string-array>
+
+
+
+</resources>
